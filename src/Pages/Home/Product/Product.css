@@ -1,0 +1,18 @@
+.product-container{
+    display: flex;
+    border-bottom: 2px solid red;
+    margin-right: 10px;
+    margin-left: 100px;
+    padding: 10px;
+}
+.main-text{
+    color: blue;
+    font-weight: 400;
+}
+.product-button{
+  padding: 15px 30px;
+  border:2px solid black;
+  color:black;
+  border-radius: 20px;
+  background-color: aliceblue;
+}
